@@ -1,0 +1,21 @@
+{
+	"deck": [
+		{"name": "Skirmisher", "id": "S1"}
+	],
+	"turns": [
+		{
+			"draw": ["S1"],
+			"plays": [
+				{"id": "S1"}
+			]
+		},
+		{
+			"draw": [],
+			"plays": []
+		},
+		{
+			"draw": [],
+			"plays": []
+		}
+	]
+}
